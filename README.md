@@ -1,1 +1,1 @@
-# openCV
+# Bsics of openCV
