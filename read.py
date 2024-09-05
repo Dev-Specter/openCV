@@ -1,7 +1,7 @@
 import cv2 as cv
 
 img = cv.imread('/Users/abhinavsingh/Desktop/Opencv/photos/eyes.jpg')
-cv.imshow('Cats', img)
+cv.imshow('eyes', img)
 
 cv.waitKey(0)
 
